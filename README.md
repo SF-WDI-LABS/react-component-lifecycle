@@ -1,7 +1,5 @@
 # React Component Lifecycle
 
-Okay - you've aced it so far. Let's get technical!
-
 React class components provide several lifecycle methods that you can use to control your application based on the state of the UI.
 
 These methods happen automatically - but you can call them to modify them.
