@@ -42,7 +42,7 @@ Let's go through them. Again, you don't need to write these methods - they happe
 [Check out the documentation on components!](https://facebook.github.io/react/docs/react-component.html)
 
 
-Here they are in a diagram - ![Lifecycles](./assets/React_Component_Lifecycle.png) Open this image in a new window next to this one, and follow along as we go through the methods.
+Here they are in a diagram - ![LifeCycles](https://user-images.githubusercontent.com/4304660/27087429-a55db2b0-501a-11e7-8827-9e3d024c4000.png) Open this image in a new window next to this one, and follow along as we go through the methods.
 
 ## `constructor()`
 
