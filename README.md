@@ -1,4 +1,6 @@
-# React Component Lifecycle
+# ![](https://camo.githubusercontent.com/6ce15b81c1f06d716d753a61f5db22375fa684da/68747470733a2f2f67612d646173682e73332e616d617a6f6e6177732e636f6d2f70726f64756374696f6e2f6173736574732f6c6f676f2d39663838616536633963333837313639306533333238306663663535376633332e706e67) React Component Lifecycle
+
+Okay - you've aced it so far. Let's get technical!
 
 React class components provide several lifecycle methods that you can use to control your application based on the state of the UI.
 
@@ -42,7 +44,7 @@ Let's go through them. Again, you don't need to write these methods - they happe
 [Check out the documentation on components!](https://facebook.github.io/react/docs/react-component.html)
 
 
-![LifeCycles](https://user-images.githubusercontent.com/4304660/27087429-a55db2b0-501a-11e7-8827-9e3d024c4000.png)
+Here they are in a diagram - ![Lifecycles](./assets/React_Component_Lifecycle.png) Open this image in a new window next to this one, and follow along as we go through the methods.
 
 ## `constructor()`
 
