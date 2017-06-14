@@ -43,8 +43,9 @@ Let's go through them. Again, you don't need to write these methods - they happe
 
 [Check out the documentation on components!](https://facebook.github.io/react/docs/react-component.html)
 
+<img src="https://github.com/SF-WDI-LABS/modules-react-fe/raw/master/lectures/02-further-react-info/assets/React_Component_Lifecycle.png">
 
-Here they are in a diagram - ![Lifecycles](./assets/React_Component_Lifecycle.png) Open this image in a new window next to this one, and follow along as we go through the methods.
+Open this image in a new window next to this one, and follow along as we go through the methods.
 
 ## `constructor()`
 
